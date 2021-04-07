@@ -28,6 +28,9 @@ The destination of the ETL is a PostgresSQL Database called _Sparkify_ with the 
 
 Referential Integrity is not being enforced across the tables
 
+Following is the Star Schema ER Diagram:
+![ER Diagram] (img/ER.png)
+
 
 ## ETL Design and Workflow
 Code repository contains only three Python scripts:
